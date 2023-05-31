@@ -1,0 +1,7 @@
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.csproj.AssemblyReference.cache
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.AssemblyInfoInputs.cache
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.AssemblyInfo.cs
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.csproj.CoreCompileInputs.cache
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tnqar\source\repos\ProductAPI\ProductAPI\obj\Debug\net6.0\ProductPostAPI.MvcApplicationPartsAssemblyInfo.cache
